@@ -4,5 +4,8 @@ public class GitPractice {
         System.out.println("Hello Word!!!");
         System.out.println("Hello Word!!!");
         System.out.println("Hello Word!!!");
+
+        System.out.println("Hello Word!!!After");
+        System.out.println("Hello Word!!!After");
     }
 }

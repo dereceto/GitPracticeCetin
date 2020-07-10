@@ -8,5 +8,7 @@ public class GitHup2 {
         System.out.println("From intellij 4th time GitHup2 class");
         System.out.println("From intellij 4th time GitHup3 class");
         System.out.println("From intellij 4th time GitHup4 class");
+        System.out.println("From intellij 4th time GitHup3 class");
+
     }
 }
